@@ -1,0 +1,30 @@
+.dictador{
+    border: black 2px solid;
+    height: 400px;
+    width: 500px;
+}
+.dictador2{
+    border: black 2px solid;
+    height: 500px;
+}
+
+.dictador-pantalla{
+    border: black 2px solid;
+    height: 500px;
+}
+
+.elementoPantalla {
+    background-color: blue;
+    height: 500px;
+    width: 700px;   
+}
+
+.item2 {
+    background-color: chocolate;
+    height: 150px;   
+}
+
+.item3 {
+    background-color: darkgreen;
+    height: 150px;   
+}
